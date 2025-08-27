@@ -21,7 +21,7 @@
 
  <h2>Personal Information</h2>
             <ul>
-                <li>Birthplace:    B.P.R MEM. Hospital Bulaon Resisdents (CSFP)</li>
+                <li>Birthplace: B.P.R MEM. Hospital Bulaon Resisdents (CSFP)</li>
                 <li>Birthday: July 21, 2005 </li>
                 <li>Gender: Female</li>
                 <li>Civil Status: Single </li>
