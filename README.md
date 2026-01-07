@@ -35,7 +35,7 @@
                    <li> <strong> Betis National High School </strong> <br>
                      [2022-2023] </li> 
                   <li><strong> St. Nicolas College of Business and Technology </strong> <br>
-                     [Currently 2nd year at (DIT)]</li>  
+                     [Currently 3rd year at (DIT)]</li>  
             </ul>
         </div>
  <h3>Skills 💻</h3>
